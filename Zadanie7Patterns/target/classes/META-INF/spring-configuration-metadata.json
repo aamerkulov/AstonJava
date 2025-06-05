@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "notification",
+      "type": "com.example.notificationservice.config.NotificationProperties",
+      "sourceType": "com.example.notificationservice.config.NotificationProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "notification.email-from",
+      "type": "java.lang.String",
+      "sourceType": "com.example.notificationservice.config.NotificationProperties"
+    },
+    {
+      "name": "notification.site-url",
+      "type": "java.lang.String",
+      "sourceType": "com.example.notificationservice.config.NotificationProperties"
+    }
+  ],
+  "hints": []
+}
